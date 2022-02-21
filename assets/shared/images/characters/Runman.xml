@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Runman.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="t idle0000" x="17px" y="14" width="109" height="113"/>
+
+<SubTexture name="t idle0001" x="152" y="26" width="109" height="123"/>
+
+<SubTexture name="t up0000" x="265" y="39" width="110" height="125"/>
+
+<SubTexture name="t down0000" x="403" y="62" width="109" height="129"/>
+
+<SubTexture name="t left0000" x="666" y="87" width="112" height="142"/>
+
+<SubTexture name="t right0000" x="517" y="86" width="133" height="138"/>
+
+</TextureAtlas>
